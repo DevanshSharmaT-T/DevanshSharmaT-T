@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Devansh%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Frontend%20Specialist&descAlignY=58&descSize=16)
 ![visitors](https://komarev.com/ghpvc/?username=DevanshSharmaT-T&label=Profile%20Views&color=302b63&style=flat)
-
+##
 ## 👋 Hey, I'm Devansh
 
 Thanks for stopping by. I'm a **Full Stack Developer** and consultant at **Infotech.Works**, based in Pune, India.
@@ -12,7 +12,7 @@ My thing is bridging the gap between complex backend systems and intuitive, high
 - ✈️ Exchange student alumni — **Laurentian University, Canada**
 - 🌐 Portfolio: [devansh-sharma-dev-profile.vercel.app](https://devansh-sharma-dev-profile.vercel.app/)
 
-
+##
 ## 🚀 Things I've Built
 
 - **[Developer Showcase](https://devansh-sharma-dev-profile.vercel.app/)** — Personal portfolio built with Astro.js, GLSL shaders & GSAP. Sub-100ms interaction time with GPU-accelerated motion.
@@ -20,7 +20,7 @@ My thing is bridging the gap between complex backend systems and intuitive, high
 - **[Team Hive](https://github.com/DevanshSharmaT-T/nex-event.git)** — Collaborative team management platform with real-time project tracking and automated workflows.
 - **[Shopworks Portal](https://retail-store-three.vercel.app/)** — Retailer operations management system built during my internship at Connected Dot Solutions.
 
-
+##
 ## 🛠️ Tech I Work With
 
 **Backend**
@@ -51,7 +51,7 @@ My thing is bridging the gap between complex backend systems and intuitive, high
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
+##
 ## 📊 GitHub Stats
 
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshSharmaT-T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
@@ -60,7 +60,7 @@ My thing is bridging the gap between complex backend systems and intuitive, high
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevanshSharmaT-T&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
-
+##
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://devansh-sharma-dev-profile.vercel.app/)
