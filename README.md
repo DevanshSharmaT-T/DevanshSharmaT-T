@@ -55,12 +55,14 @@ Thanks for stopping by. I'm a **Full Stack Developer** and consultant at **Infot
 
 <br />
 
+<div align="center">
 | Backend | Frontend | Infrastructure & Tools |
 | :--- | :--- | :--- |
 | Java · Spring Boot | React · Astro | Docker · Linux |
 | Ruby on Rails | TypeScript · JavaScript | MySQL |
 | .NET · C# | Tailwind CSS | Git · GitHub · GitLab |
 | C++ | HTML5 · CSS3 | REST APIs |
+</div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
@@ -77,9 +79,18 @@ Thanks for stopping by. I'm a **Full Stack Developer** and consultant at **Infot
 <!-- ═══════════════════════ STATS + MILESTONES ═══════════════════════ -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevanshSharmaT-T&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A855F7&icon_color=E11D48&text_color=c9d1d9" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshSharmaT-T&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DevanshSharmaT-T&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=E11D48&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>-->
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevanshSharmaT-T&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A855F7&icon_color=E11D48&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DevanshSharmaT-T&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
