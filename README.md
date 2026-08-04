@@ -152,7 +152,7 @@ graph TD
 ## ⚡ ...and yeah, a Anime fan
 
 <div align="center">
-  <img width="480" src="https://media.giphy.com/media/R14n67Pacz50AiHgiu/giphy.gif" alt="Chainsaw Man" />
+  <img width="550" src="https://media.giphy.com/media/R14n67Pacz50AiHgiu/giphy.gif" alt="Chainsaw Man" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=KEEP+THE+DREAM+SIMPLE.+KEEP+BUILDING." alt="Quote" />
 </div>
