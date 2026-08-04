@@ -6,12 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Infotech.Works;Java+%7C+Spring+Boot+%7C+.NET+%7C+React;PG-DAC+%7C+CDAC+IACSD;Chainsaw+Man+enjoyer+in+my+free+time)](https://devansh-sharma-dev-profile.vercel.app/)
 
-<img src="https://count.getloli.com/@DevanshSharmaT-T?theme=moebooru" alt="Profile views" />
+<img src="https://count.getloli.com/@DevanshSharmaT-T?theme=booru-vp&padding=7&offset=0&align=top&scale=1.9&pixelated=1&darkmode=auto" alt="Profile views" />
 
 </div>
 
 <!-- ═══════════════════════ INTRO + CODER GIF ═══════════════════════ -->
-<img width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" />
+<img align="center" width="550" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" />
 
 ## 👋 Hey, I'm Devansh
 
