@@ -1,5 +1,5 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B2FC9,100:E11D48&height=200&section=header&text=Devansh%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Frontend%20Specialist&descAlignY=58&descSize=16" alt="Devansh Sharma" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B2FC9,100:E11D48&height=200&section=header&text=Devansh%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26amp%3B%20Frontend%20Specialist&descAlignY=58&descSize=16" alt="Devansh Sharma" />
 
 <!-- ═══════════════════════ WELCOME + COUNTER ═══════════════════════ -->
 <div align="center">
