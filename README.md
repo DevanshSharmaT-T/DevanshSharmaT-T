@@ -159,3 +159,4 @@ graph TD
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,50:8B2FC9,100:A855F7&height=120&section=footer" alt="footer" />
+
